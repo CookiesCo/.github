@@ -6,6 +6,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed nibh ante. 
 
 ---
 
-Copyright © Cookies Creative Consulting & Promotions, Inc.
+🍪 Copyright © Cookies Creative Consulting & Promotions, Inc.
 
 This repository contains private computer source code owned by Cookies (heretofore Cookies Creative Consulting & Promotions, a California Company). Use of this code in source or object form requires prior written permission from a duly-authorized member of Cookies Engineering. All rights reserved.
